@@ -1,7 +1,0 @@
-12		!puntos de colocacion
-1.9d0 		!r_min
-11.9d0		!r_max
-1.0d0 		!Mass
-100.0d0		!dominio temporal de integracion
-1.0d0 		!cada cuanto duardo datos
-12		!nombre
