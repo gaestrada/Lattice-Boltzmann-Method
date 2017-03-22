@@ -6,5 +6,5 @@ métodos pseudoespectrales.
 Se compila de forma usual:
 $ gfortran "blackHole.f90" -o nombre
 
- y se ejecuta pasando el archivo de parametros:
-$ ./nombre <- parametros
+ y se ejecuta:
+$ ./nombre 
